@@ -1,0 +1,314 @@
+{
+  "games_played": 2000,
+  "games_won": 519,
+  "games_lost": 1481,
+  "success_rate": 25.95,
+  "total_wrong_guesses": 10760,
+  "total_repeated_guesses": 0,
+  "avg_wrong_guesses": 5.38,
+  "avg_repeated_guesses": 0.0,
+  "perfect_games": 6,
+  "final_score": -53281.0,
+  "difficult_words": [
+    {
+      "word": "jovicentrical",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 15
+    },
+    {
+      "word": "fractionize",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 14
+    },
+    {
+      "word": "proholiday",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "wallach",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 8
+    },
+    {
+      "word": "kexy",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 7
+    },
+    {
+      "word": "prevaccinate",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 14
+    },
+    {
+      "word": "stannotype",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "handbill",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "outthrough",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "fiendhead",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "towai",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "interviewer",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "retroposed",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "oncorhynchus",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "acierage",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "chemiotropism",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 15
+    },
+    {
+      "word": "haberdasher",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "punnage",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "euphemizer",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "prepensely",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "superabsurd",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "deripia",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "bespout",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "pseudopious",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "boisterousness",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 14
+    },
+    {
+      "word": "suguaro",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "taxibus",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "glaumrie",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "muskwaki",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 8
+    },
+    {
+      "word": "inelegancy",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "lyonetiidae",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "salvific",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "chuje",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 7
+    },
+    {
+      "word": "reoverwork",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "subduement",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "unpickled",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "arimasp",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "tadpole",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "suburbanhood",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "cognoscitive",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 14
+    },
+    {
+      "word": "nurselike",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "lactoprotein",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 15
+    },
+    {
+      "word": "loftless",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "pokomoo",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 7
+    },
+    {
+      "word": "tricyclic",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "splenalgic",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "exilian",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "cylinderlike",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "procomedy",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "metavauxite",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "games_played": 2000,
+  "games_won": 607,
+  "games_lost": 1393,
+  "success_rate": 30.349999999999998,
+  "total_wrong_guesses": 10527,
+  "total_repeated_guesses": 0,
+  "avg_wrong_guesses": 5.2635,
+  "avg_repeated_guesses": 0.0,
+  "perfect_games": 10,
+  "final_score": -52028.0,
+  "difficult_words": [
+    {
+      "word": "suspensorium",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "gamekeeper",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "unfiring",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "semiglobe",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "adenophlegmon",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "strifeful",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "abashedness",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "comprehension",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 15
+    },
+    {
+      "word": "tachoscope",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "jewstone",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "preimagine",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "nitrogenate",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "sphaeraphides",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "enolize",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "opsimathy",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "prepayment",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "gatto",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "tetrazo",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "virgilism",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "grecism",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "bestowment",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "searchment",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 14
+    },
+    {
+      "word": "caswellite",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "pathogermic",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 16
+    },
+    {
+      "word": "merge",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 8
+    },
+    {
+      "word": "otography",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "reabuse",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "nervule",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "clayman",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "heptasulphide",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 15
+    },
+    {
+      "word": "superdomineering",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 14
+    },
+    {
+      "word": "dactylically",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "angiokinesis",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "consumpted",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "mischievousness",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 14
+    },
+    {
+      "word": "denizenation",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "bordage",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "attenuant",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "manteau",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "semipectinate",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 14
+    },
+    {
+      "word": "byronism",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "bonjour",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "rhizopod",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "formalazine",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 14
+    },
+    {
+      "word": "liard",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "apneumonous",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "uncriticising",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "gastroduodenotomy",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 17
+    },
+    {
+      "word": "strip",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "tenaculum",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    }
+  ]
+}

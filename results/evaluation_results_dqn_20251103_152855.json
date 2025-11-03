@@ -1,0 +1,314 @@
+{
+  "games_played": 2000,
+  "games_won": 557,
+  "games_lost": 1443,
+  "success_rate": 27.85,
+  "total_wrong_guesses": 10666,
+  "total_repeated_guesses": 0,
+  "avg_wrong_guesses": 5.333,
+  "avg_repeated_guesses": 0.0,
+  "perfect_games": 7,
+  "final_score": -52773.0,
+  "difficult_words": [
+    {
+      "word": "tapacolo",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "backboned",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "artifact",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "sauceplate",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "thebaine",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "fluently",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "learing",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "gaonic",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "lurgworm",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 8
+    },
+    {
+      "word": "scalelike",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "lifesomely",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "unpolitely",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 14
+    },
+    {
+      "word": "soapmaking",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "talao",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "protochloride",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 15
+    },
+    {
+      "word": "amphithect",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "washbowl",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "interwreathe",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "zalambdodonta",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "condemner",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "equity",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "spookiness",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "neologize",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "blossomtime",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "clavigerous",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 16
+    },
+    {
+      "word": "aghorapanthi",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 14
+    },
+    {
+      "word": "osmophore",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "fermail",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "allergia",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "sheetways",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "paining",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "questionwise",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "reflectometer",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "aecidiaceae",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "bepart",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "bucerotes",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "filao",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 10
+    },
+    {
+      "word": "unobverted",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 14
+    },
+    {
+      "word": "scotize",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "auxographic",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "erept",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "distempered",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "heartily",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 13
+    },
+    {
+      "word": "hypoglossus",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 7
+    },
+    {
+      "word": "peatstack",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 11
+    },
+    {
+      "word": "tinamou",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "nidulation",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "syntectic",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 12
+    },
+    {
+      "word": "secesher",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 9
+    },
+    {
+      "word": "extraperiodic",
+      "wrong_guesses": 6,
+      "repeated_guesses": 0,
+      "turns": 15
+    }
+  ]
+}
